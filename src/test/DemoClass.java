@@ -6,7 +6,7 @@ public class DemoClass {
 	{
 		System.out.println("Lavanya is selenium class");
 		
-		System.out.println("Lavanya wil go out from selenium class");
+		System.out.println("Lavanya will go out from selenium class");
 	}
 	
 }
