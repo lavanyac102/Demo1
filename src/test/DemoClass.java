@@ -7,6 +7,8 @@ public class DemoClass {
 		System.out.println("in selenium class");
 		
 		System.out.println("not in classgg");
+		
+		System.out.println("not in smdfggfs");
 
 	}
 	
