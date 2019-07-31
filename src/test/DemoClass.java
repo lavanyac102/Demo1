@@ -6,7 +6,7 @@ public class DemoClass {
 	{
 
 		System.out.println("in selenium jgjgclass");
-
+System.out.println("changes in branch1 shld be same in modified demo");
 
 
 	}
