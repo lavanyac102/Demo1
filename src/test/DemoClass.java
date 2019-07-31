@@ -7,12 +7,6 @@ public class DemoClass {
 
 		System.out.println("in selenium jgjgclass");
 
-		System.out.println("hiiiiiiiiiiiiiii");
-
-		System.out.println("in selenium class");
-
-		System.out.println("in selenium classhgdjhgfghfjtf");
-		System.out.println("in qspiders");
 
 
 	}
